@@ -77,7 +77,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'OPTIONS': {
-            'read_default_file': 'C:/Users/Colin/Documents/App Development/Django-server-spike-v2/my.cnf',
+            'read_default_file': '../Django-server-spike-v2/my.cnf',
         }
     }
 }
