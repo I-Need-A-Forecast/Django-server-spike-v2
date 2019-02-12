@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    #'DB_Tests.apps.current_observationConfig'
     'DB_Tests.apps.DbTestsConfig',
     'polls.apps.PollsConfig',
     'django.contrib.admin',
